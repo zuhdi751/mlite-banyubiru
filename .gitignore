@@ -59,6 +59,7 @@ docker/dns/dnsmasq.log
 docker/www/*
 
 # .env
+.env
 logs/
 config.php
 #workerman.php
